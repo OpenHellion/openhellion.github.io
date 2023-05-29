@@ -11,4 +11,4 @@ OpenHellion is a multiplayer game set in space. You're a part of a mission-gone-
 
 The project is based based upon the no-longer-available Hellion game, made by the late Serbian company Zero Gravity.
 
-Visit the [Hellion Documentation](docs/documentation) for a more technical introduction to the game.
+Visit the [Hellion Documentation](_docs/documentation) for a more technical introduction to the game.
