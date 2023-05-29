@@ -1,0 +1,8 @@
+title: OpenHellion
+description: OpenHellion website.
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+url: https://openhellion.github.io/
+
+plugins:
+  - jekyll-include-cache
