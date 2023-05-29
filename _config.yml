@@ -1,8 +1,22 @@
 title: OpenHellion
 description: OpenHellion website.
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
 url: https://openhellion.github.io/
+repository: "OpenHellion/openhellion.github.io"
+
+minimal_mistakes_skin: "dirt"
 
 plugins:
   - jekyll-include-cache
+
+defaults:
+  # _docs
+  - scope:
+      path: "/docs/"
+      type: docs
+    values:
+      toc: true
+      classes:
+        - wide
+      sidebar:
+        nav: "docs"
