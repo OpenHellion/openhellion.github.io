@@ -1,6 +1,10 @@
 ---
 title: Documentation
 layout: posts
+classes:
+  - wide
+sidebar:
+  nav: "docs"
 ---
 
 # OpenHellion Project Documentation
