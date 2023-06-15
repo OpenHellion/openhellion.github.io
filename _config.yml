@@ -15,8 +15,8 @@ defaults:
   - scope:
     path: ""
     type: docs
-  values:
-    toc: true
+    values:
+      toc: true
     classes:
       - wide
     sidebar:
