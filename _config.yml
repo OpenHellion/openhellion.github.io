@@ -15,7 +15,7 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: docs
+      type: _docs
     values:
       toc: true
       classes:
@@ -24,6 +24,6 @@ defaults:
         nav: "docs"
   - scope:
     path: ""
-    type: pages
+    type: _pages
   values:
     layout: single
