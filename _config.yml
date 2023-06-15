@@ -6,7 +6,7 @@ repository: "OpenHellion/openhellion.github.io"
 
 minimal_mistakes_skin: "dirt"
 
-include: ["_pages"]
+include: ["_pages", "_docs" ]
 
 plugins:
   - jekyll-include-cache
