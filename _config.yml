@@ -13,16 +13,16 @@ plugins:
 
 defaults:
   - scope:
-      path: ""
-      type: docs
-    values:
-      toc: true
-      classes:
-        - wide
-      sidebar:
-        nav: "docs"
+    path: ""
+    type: docs
+  values:
+    toc: true
+    classes:
+      - wide
+    sidebar:
+      nav: "docs"
   - scope:
     path: ""
     type: pages
-  values:
-    layout: single
+    values:
+      layout: single
