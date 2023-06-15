@@ -2,10 +2,10 @@ docs:
   - title: Overview
     children:
       - title: "Docs"
-        url: /_docs/documentation.md
+        url: /_docs/documentation
 
 main:
   - title: "Home"
     url: /
   - title: "Documentation"
-    url: /docs/documentation
+    url: /_docs/documentation
