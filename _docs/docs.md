@@ -1,10 +1,5 @@
 ---
-title: Documentation
-layout: posts
-classes:
-  - wide
-sidebar:
-  nav: "docs"
+title: Documentation Home
 ---
 
 # OpenHellion Project Documentation
@@ -12,5 +7,8 @@ sidebar:
 
 This page is for more techical users wanting to get a more general understanding of how the game works.
 
-### Client Architecture Overview
-![A diagram of the OpenHellion client architecture](res/Architecture.drawio.svg)
+## Server-Client Architecture
+![A diagram of the OpenHellion server-client architecture.](res/ClientServer.drawio.svg)
+
+## Client Architecture Overview
+![A diagram of the OpenHellion client architecture.](res/ClientArchitecture.drawio.svg)

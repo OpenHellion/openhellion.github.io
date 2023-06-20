@@ -17,6 +17,7 @@ defaults:
       type: docs
     values:
       toc: true
+      layout: posts
       classes:
         - wide
       sidebar:

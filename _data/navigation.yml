@@ -1,11 +1,13 @@
+# Documentation sidebar.
 docs:
   - title: Overview
     children:
-      - title: "Docs"
-        url: /_docs/documentation
+      - title: "Documentation Home"
+        url: /_docs/docs
 
+# Top navigation.
 main:
   - title: "Home"
     url: /
   - title: "Documentation"
-    url: /_docs/documentation
+    url: /_docs/docs
