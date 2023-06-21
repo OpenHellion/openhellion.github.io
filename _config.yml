@@ -15,10 +15,10 @@ plugins:
 defaults:
   - scope:
       path: "_docs/"
-      type: "posts"
+      type: "docs"
     values:
       toc: true
-      layout: "docs"
+      layout: "posts"
       classes:
         - wide
       sidebar:
