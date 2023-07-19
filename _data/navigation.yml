@@ -3,13 +3,15 @@ docs:
   - title: Overview
     children:
       - title: "Documentation Home"
-        url: /docs/docs
+        url: /documentation/home
+      - title: "Client-Server Communication"
+        url: /documentation/clientserver
 
 # Top navigation.
 main:
   - title: "Home"
     url: /
   - title: "Documentation"
-    url: /docs/docs
+    url: /documentation/home
   - title: "About"
-    url: /pages/about.md
+    url: /pages/about

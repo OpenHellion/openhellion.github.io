@@ -6,7 +6,7 @@ repository: "OpenHellion/openhellion.github.io"
 
 minimal_mistakes_skin: "dirt"
 
-include: ["pages", "docs" ]
+include: ["pages", "documentation" ]
 encoding: "utf-8"
 
 plugins:
@@ -14,7 +14,7 @@ plugins:
 
 defaults:
   - scope:
-      path: "docs"
+      path: "docmentation"
     values:
       toc: true
       layout: "posts"
