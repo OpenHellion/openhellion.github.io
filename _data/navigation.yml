@@ -3,11 +3,13 @@ docs:
   - title: Overview
     children:
       - title: "Documentation Home"
-        url: /_docs/docs
+        url: /docs/docs
 
 # Top navigation.
 main:
   - title: "Home"
     url: /
   - title: "Documentation"
-    url: /_docs/docs
+    url: /docs/docs
+  - title: "About"
+    url: /pages/about.md
