@@ -2,7 +2,9 @@
 title: About OpenHellion
 ---
 
-OpenHellion was founded in late 2022 in an attempt to reverse-engineer HELLION. The orginal game was developed by the Serbian Zero Gravity Games from 2015 to 2019. Due to a messy development process the game had to close down in 2019 as a result of lacking funds. The game was first made free in a short period, before being taken off Steam forever.
+OpenHellion was founded in autumn 2022 in an attempt to reverse-engineer HELLION back into a fully-functioning Unity project. As more errors were fixed, more got uncovered, which caused more and more rewriting.
+
+The orginal game, HELLION, was developed by the Serbian company, Zero Gravity Games. Development on the game started in 2015, but because of an ineffective development process, the game had to shut down in 2019. During the shutdown process, the game was made free in a short period of time, before being taken off Steam completely.
 
 In spite of this, an active community composed of dedicated fans kept the game alive.
 Not long after the shutdown, a person started a project to fix all bugs, and in the long term rewrite large chunks of the code. The person chose to organise this in a very autocratic way with closed source and full creative freedom with no way for volunteers to help. This project on the other hand aims to be as open as possible, with the ability for everyone to join if they wish.
