@@ -14,8 +14,7 @@ plugins:
 
 defaults:
   - scope:
-      path: "_docs/"
-      type: "docs"
+      path: "docs"
     values:
       toc: true
       layout: "posts"
@@ -24,7 +23,6 @@ defaults:
       sidebar:
         nav: "docs"
   - scope:
-      path: "_pages/"
-      type: "pages"
+      path: "pages"
     values:
       layout: single
