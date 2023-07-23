@@ -4,6 +4,8 @@ docs:
     children:
       - title: "Documentation Home"
         url: /documentation/home
+      - title: "Client architecture"
+        url: /documentation/client
       - title: "Client-Server Communication"
         url: /documentation/clientserver
 
