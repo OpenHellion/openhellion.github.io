@@ -4,10 +4,12 @@ docs:
     children:
       - title: "Documentation Home"
         url: /documentation/home
-      - title: "Client architecture"
-        url: /documentation/client
       - title: "Client-Server Communication"
         url: /documentation/clientserver
+      - title: "Client architecture"
+        url: /documentation/client
+      - title: "Server architecture"
+        url: /documentation/server
 
 # Top navigation.
 main:

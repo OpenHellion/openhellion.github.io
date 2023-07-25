@@ -3,14 +3,16 @@ description: OpenHellion website.
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 url: https://openhellion.github.io/
 repository: "OpenHellion/openhellion.github.io"
+github_username:  OpenHellion
 
 minimal_mistakes_skin: "dirt"
 
-include: ["pages", "documentation" ]
+include: ["pages", "documentation", "_posts" ]
 encoding: "utf-8"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
 
 defaults:
   - scope:
@@ -28,3 +30,13 @@ defaults:
       layout: single
       classes:
         - wide
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
