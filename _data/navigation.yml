@@ -1,15 +1,17 @@
 # Documentation sidebar.
 docs:
-  - title: Overview
+  - title: Overview of different systems
     children:
       - title: "Documentation Home"
-        url: /documentation/home
+        url: /documentation/home-overview
       - title: "Client-Server Communication"
-        url: /documentation/clientserver
+        url: /documentation/clientserver-overview
       - title: "Client architecture"
-        url: /documentation/client
+        url: /documentation/client-overview
       - title: "Server architecture"
-        url: /documentation/server
+        url: /documentation/server-overview
+      - title: "GUI overview"
+        url: /documentation/ui-overview
 
 # Top navigation.
 main:

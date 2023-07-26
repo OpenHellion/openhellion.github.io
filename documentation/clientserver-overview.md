@@ -1,5 +1,5 @@
 ---
-title: Client-server communication
+title: Client-server communication overview
 ---
 
 OpenHellion uses Nakama as a main server. The tasks the main server handles are: user accounts, friends, achievements (todo), match handling, chat, character info (todo), parties (todo), and notifications (todo). Later I wish to expand the tasks of the main server to include saving the world and more.
