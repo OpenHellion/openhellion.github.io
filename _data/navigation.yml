@@ -3,7 +3,7 @@ docs:
   - title: Overview of different systems
     children:
       - title: "Documentation Home"
-        url: /documentation/home-overview
+        url: /documentation/home
       - title: "Client-Server Communication"
         url: /documentation/clientserver-overview
       - title: "Client architecture"
@@ -12,6 +12,10 @@ docs:
         url: /documentation/server-overview
       - title: "GUI overview"
         url: /documentation/ui-overview
+  - title: Client deep-dive
+    children:
+      - title: "Scene descriptions"
+        url: "/documentation/scene-description"
 
 # Top navigation.
 main:
