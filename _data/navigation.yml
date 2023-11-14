@@ -16,6 +16,8 @@ docs:
     children:
       - title: "Scene descriptions"
         url: "/documentation/scene-description"
+      - title: "Subsystems"
+        url: "/documentation/subsystems"
 
 # Top navigation.
 main:
