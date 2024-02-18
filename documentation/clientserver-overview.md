@@ -2,7 +2,7 @@
 title: Client-server communication overview
 ---
 
-OpenHellion uses Nakama as a main server. The tasks the main server handles are: user accounts, friends, achievements (todo), match handling, chat, character info (todo), parties (todo), and notifications (todo). Later I wish to expand the tasks of the main server to include saving the world and more.
+OpenHellion uses Nakama as a main server. The tasks the main server handles are: user accounts, friends, achievements (todo), match handling, chat, character info, parties (todo), and notifications (todo). Later I wish to expand the tasks of the main server to include saving the world and more.
 
 The components that handles network connectivity are located in the Net namespaces on the client and the server. In addition, the client has another namespace called social, which handles connections to Nakama. The server communicates with Nakama throught the MsCommunication class, located in the Net namespace.
 

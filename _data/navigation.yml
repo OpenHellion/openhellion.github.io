@@ -10,14 +10,24 @@ docs:
         url: /documentation/client-overview
       - title: "Server architecture"
         url: /documentation/server-overview
-      - title: "GUI overview"
-        url: /documentation/ui-overview
   - title: Client deep-dive
     children:
       - title: "Scene descriptions"
         url: "/documentation/scene-description"
       - title: "Subsystems"
         url: "/documentation/subsystems"
+      - title: "Loading scenes"
+        url: "/documentation/client-loading"
+      - title: "GUI overview"
+        url: /documentation/ui-overview
+  - title: Concepts
+      children:
+        - title: "Space objects"
+          url: "/documentation/space-objects"
+        - title: "Level design"
+          url: /documentation/level-design
+        - title: "Space objects"
+          url: /documentation/space-objects
 
 # Top navigation.
 main:
