@@ -21,13 +21,13 @@ docs:
       - title: "GUI overview"
         url: /documentation/ui-overview
   - title: Concepts
-      children:
-        - title: "Space objects"
-          url: "/documentation/space-objects"
-        - title: "Level design"
-          url: /documentation/level-design
-        - title: "Space objects"
-          url: /documentation/space-objects
+    children:
+      - title: "Space objects"
+        url: "/documentation/space-objects"
+      - title: "Level design"
+        url: /documentation/level-design
+      - title: "Space objects"
+        url: /documentation/space-objects
 
 # Top navigation.
 main:

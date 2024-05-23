@@ -1,6 +1,6 @@
 title: OpenHellion
 description: OpenHellion website.
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 url: https://openhellion.github.io/
 repository: "OpenHellion/openhellion.github.io"
 github_username:  OpenHellion
@@ -11,7 +11,6 @@ include: ["pages", "documentation", "_posts" ]
 encoding: "utf-8"
 
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
 
 defaults:
